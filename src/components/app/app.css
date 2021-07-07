@@ -1,0 +1,20 @@
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+.app {
+    font-family: 'Julius Sans One', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}

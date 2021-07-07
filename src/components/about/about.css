@@ -1,0 +1,49 @@
+.about h2 {
+    font-size: 36px;
+}
+
+.about__inner {
+    background-color: #F0F3F6;
+    display: flex;
+}
+
+.about__image {
+    width: 50%;
+    background: no-repeat center/cover url('./about.webp');
+}
+
+.about__text {
+    width: 50%;
+    padding: 10%;
+}
+
+.about__text p {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    line-height: 1.6;
+}
+
+.about__text h3 {
+    margin-top: 40px;
+}
+
+@media screen and (max-width: 769px) {
+    
+    .about__inner {
+        flex-direction: column;
+    }
+
+    .about__image {
+        width: 100%;
+        height: 800px;
+    }
+
+    .about__text {
+        width: 100%;
+    }
+
+    .about__container {
+        width: 100%;
+    }
+
+}
