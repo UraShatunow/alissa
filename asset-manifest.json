@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alissa/static/css/main.a617e044.chunk.css",
+    "main.js": "/alissa/static/js/main.0fec3d02.chunk.js",
+    "main.js.map": "/alissa/static/js/main.0fec3d02.chunk.js.map",
+    "runtime-main.js": "/alissa/static/js/runtime-main.01311b79.js",
+    "runtime-main.js.map": "/alissa/static/js/runtime-main.01311b79.js.map",
+    "static/js/2.f0bf3dd5.chunk.js": "/alissa/static/js/2.f0bf3dd5.chunk.js",
+    "static/js/2.f0bf3dd5.chunk.js.map": "/alissa/static/js/2.f0bf3dd5.chunk.js.map",
+    "static/js/3.ece23deb.chunk.js": "/alissa/static/js/3.ece23deb.chunk.js",
+    "static/js/3.ece23deb.chunk.js.map": "/alissa/static/js/3.ece23deb.chunk.js.map",
+    "index.html": "/alissa/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/alissa/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f0bf3dd5.chunk.js.LICENSE.txt": "/alissa/static/js/2.f0bf3dd5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alissa/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01311b79.js",
+    "static/js/2.f0bf3dd5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0fec3d02.chunk.js"
+  ]
+}
